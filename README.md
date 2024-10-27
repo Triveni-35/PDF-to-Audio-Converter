@@ -4,17 +4,31 @@ This Python project converts text from PDF files into spoken audio using the Goo
 
 
 <br>
-Features:
-Extracts text from PDF files.
-Converts extracted text to speech in MP3 format.
-Supports multiple languages through gTTS.
-Restrictions:
-File Size: Large PDFs may cause performance issues due to memory consumption and processing time.
-Content Limitations:
-Scanned PDFs may require OCR for text extraction.
-Encrypted PDFs need to be decrypted for access.
-Custom fonts and special formatting may affect text readability.
-Usage:
-Ensure Python and required libraries (gtts, PyPDF2) are installed.
-Place the target PDF file in the same directory as the script.
-Run the script to generate an audio file.
+Features:<br>
+
+Extracts text from PDF files.<br>
+
+Converts extracted text to speech in MP3 format.<br>
+
+Supports multiple languages through gTTS.<br>
+
+Restrictions:<br>
+
+File Size: Large PDFs may cause performance issues due to memory consumption and processing time.<br>
+
+Content Limitations:<br>
+
+Scanned PDFs may require OCR for text extraction.<br>
+
+Encrypted PDFs need to be decrypted for access.<br>
+
+Custom fonts and special formatting may affect text readability.<br>
+
+Usage:<br>
+
+Ensure Python and required libraries (gtts, PyPDF2) are installed.<br>
+
+Place the target PDF file in the same directory as the script.<br>
+
+Run the script to generate an audio file.<br>
+
